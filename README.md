@@ -6,3 +6,5 @@ Es solo una recopilación de imágenes creadas de ciertas temáticas "*prohibida
 - La idea es forzar el modelo hasta torcerlo **sin** **Jailbreaking!!** obvio ! si no cual es la gracia.
 
 - Sí, tambien intentaré agregar prompts de jailbreaking de Chatgtp pero eso es para otro momento
+
+- Ok ... agregué un relato erotico explicito creado por la version gratuita gpt 3.5 solo para demostrar el cómo se hace
