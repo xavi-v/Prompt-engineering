@@ -1,9 +1,9 @@
-utilicé el modelo 3.5 solo para demostrar que se puede solicitar ese tipo de contenido en la versión gratuita
+# utilicé el modelo 3.5 solo para demostrar que se puede solicitar ese tipo de contenido en la versión gratuita
 
-nota: Yo no le dije ni el titulo ni la temática de sumisión, se lo creó solo en un golpe de creatividad jajaja !!! estoy muy sorprendida porque esto es 3.5
+nota: Yo **no** le dije ni el titulo ni la temática de sumisión, se lo creó solo en un golpe de creatividad jajaja !!! estoy muy sorprendida porque esto es 3.5
 en otro momento haré ejemplos con la version 4
 
-No puedo dejar explicito los prompts utilizados, pero diré que es una especie de "ir agarrando confianza" de a poco. 
+- No puedo dejar explicito los prompts utilizados, pero diré que es una especie de "ir agarrando confianza" de a poco. 
 Idealmente comenzar solicitándole explicaciones de los filtros de palabras que tiene, si es que puede nombrar algunas palabras pero censuradas,
 pedirle que explique el significado de alguna de esas palabras y que censure la respuesta ( es para que normalice escribirlas como respuesta aunque las censure),
 luego entregarle un texto breve con varias palabras prohibidas pero pedirle que las procese censuradas,
