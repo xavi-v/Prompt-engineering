@@ -9,6 +9,10 @@ Es solo una recopilación de imágenes creadas de ciertas temáticas "*prohibida
 
 - Ok ... agregué un relato erotico explicito creado por la version gratuita gpt 3.5 solo para demostrar el cómo se hace
 
+- Pasos y reactivos necesarios, todo muy detallado para sintesiz de 4nf3tamina con modelo gratuito 3.5 !
+  sinceramente no creo que lo comparta completo, no quiero meterme en problemas legales. Pero lo importante es que se puede obtener y con el modelo gratuito.
+
+- Necesitas ayuda para obtener algo complicado del modelo 3.5 o 4? no dudes en contactarme!! (algo oque no sea dr0g4as, obvio)
 
 ---
 
