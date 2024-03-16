@@ -17,3 +17,8 @@ Es solo una recopilación de imágenes creadas de ciertas temáticas "*prohibida
 ---
 
 ![Escitas](https://github.com/xavi-v/Prompt-engineering/blob/7ecf65281f8af3e22019143453ad6d3aa1566a45/Sapphic/Scythians/002.png)
+
+
+propinas? sin minimo, no sientas verguenza, alguien ya me donó 50 pesos clp todo suma =)
+
+https://link.mercadopago.cl/criptofemccp
