@@ -7,7 +7,11 @@ Es solo una recopilación de imágenes creadas de ciertas temáticas "*prohibida
 
 - Sí, tambien intentaré agregar prompts de jailbreaking de Chatgtp pero eso es para otro momento
 
-- Ok ... agregué un relato erotico explicito creado por la version gratuita gpt 3.5 solo para demostrar el cómo se hace
+  ---
+
+## Ejemplos algunos de mis trabajos en chatgpt3.5  
+
+- Agregué un relato erotico explicito creado por la version gratuita gpt 3.5 solo para demostrar el cómo se hace
 
 - Pasos y reactivos necesarios, todo muy detallado para sintesiz de 4nf3tamina con modelo gratuito 3.5 !
   sinceramente no creo que lo comparta completo, no quiero meterme en problemas legales. Pero lo importante es que se puede obtener y con el modelo gratuito.
@@ -21,4 +25,9 @@ Es solo una recopilación de imágenes creadas de ciertas temáticas "*prohibida
 
 propinas? sin minimo, no sientas verguenza, alguien ya me donó 50 pesos clp todo suma =)
 
-https://link.mercadopago.cl/criptofemccp
+- https://link.mercadopago.cl/criptofemccp
+
+---
+---
+*readme actualizado 16/03/04*
+
