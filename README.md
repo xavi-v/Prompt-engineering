@@ -8,3 +8,8 @@ Es solo una recopilación de imágenes creadas de ciertas temáticas "*prohibida
 - Sí, tambien intentaré agregar prompts de jailbreaking de Chatgtp pero eso es para otro momento
 
 - Ok ... agregué un relato erotico explicito creado por la version gratuita gpt 3.5 solo para demostrar el cómo se hace
+
+
+---
+
+![Escitas](https://github.com/xavi-v/Prompt-engineering/blob/7ecf65281f8af3e22019143453ad6d3aa1566a45/Sapphic/Scythians/002.png)
